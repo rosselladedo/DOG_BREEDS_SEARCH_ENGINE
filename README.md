@@ -1,2 +1,2 @@
-# DOG_BREEZE_SEARCH_ENGINE
+# DOG_BREED_SEARCH_ENGINE
 Exam of Multimedia Information Retrieval and Computer Vision 
